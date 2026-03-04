@@ -64,3 +64,5 @@ Ovaj program će pokušati da:
 - ukloni shared memory segment,
 - ukloni oba semafora koja se koriste u aplikaciji.
 
+#ANDJELA STOJANOVIC 2024/0183- Projekat iz predmeta AROS
+
